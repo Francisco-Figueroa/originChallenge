@@ -1,0 +1,17 @@
+<div class="container w-100 h-100">
+    <div class="row w-100 h-100">
+        <div class="login-style">
+            <form [formGroup]="form" (ngSubmit)="checkPinNumber(form.value)">
+                <div class="login-title">
+                  <h1>Ingrese su número de PIN:</h1>
+                </div>
+                <div class="login-field">
+                  <input type="text" name="pinNumber" mask="0000" formControlName="pinNumber">
+                </div>
+                <div class="login-button">
+                    <input type="submit" name="send" value="Aceptar">
+                </div>
+            </form>
+        </div>
+    </div>
+  </div>
