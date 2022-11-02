@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUFS8BeINL8cNfaVm5wBbYDOnMCwAK87maz2qPKiOIAUjFZBRgRpFaKk7/tV7JS05tP1W9NmJpqjgugtUg/R6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francisco\\repos\\OriginChallenge\\originsChallenge\\backend\\OriginsChallenge\\OriginsChallenge\\OriginsChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francisco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\francisco\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\francisco\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\francisco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
